@@ -1,4 +1,4 @@
-![logo]https://github.com/Jordi-Allepuz/RestaurantesWebApp/blob/main/logo.png
+![logo](https://github.com/Jordi-Allepuz/RestaurantesWebApp/blob/main/logo.png)
 # Ñam Ñam Notes
 
 Ñam Ñam Notes is a web application designed to help users keep track of the restaurants they visit and their opinions about those restaurants. The app allows users to rate and review various aspects of their dining experiences, such as location, parking, price, service, and favorite dishes.
@@ -12,11 +12,14 @@
 
 ## Screenshots
 
-### Restaurant Details View
-![Restaurant Details](https://raw.githubusercontent.com/your-username/your-repo/main/path/to/Screenshot%202024-06-20%20at%2017-41-32%20Ñamñam%20Notes.png)
+### Login Page
+![Login Page](https://github.com/Jordi-Allepuz/RestaurantesWebApp/blob/main/Screenshot%202024-06-20%20at%2017-40-49%20%C3%91am%C3%B1am%20Notes.png)
 
 ### Main Dashboard
-![Main Dashboard](https://raw.githubusercontent.com/your-username/your-repo/main/path/to/Screenshot%202024-06-20%20at%2017-41-16%20Ñamñam%20Notes.png)
+![Main Dashboard](https://github.com/Jordi-Allepuz/RestaurantesWebApp/blob/main/Screenshot%202024-06-20%20at%2017-41-16%20%C3%91am%C3%B1am%20Notes.png)
 
-### Login Page
-![Login Page](https://raw.githubusercontent.com/your-username/your-repo/main/path/to/Screenshot%202024-06-20%20at%2017-40-49%20Ñamñam%20Notes.png)
+### Restaurant Details View
+![Restaurant Details](https://github.com/Jordi-Allepuz/RestaurantesWebApp/blob/main/Screenshot%202024-06-20%20at%2017-41-32%20%C3%91am%C3%B1am%20Notes.png)
+
+
+
