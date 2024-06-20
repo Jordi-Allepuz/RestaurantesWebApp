@@ -1,5 +1,10 @@
-![logo](https://github.com/Jordi-Allepuz/RestaurantesWebApp/blob/main/logo.png)
-# Ñam Ñam Notes
+<p align="center">
+  <img src="https://github.com/Jordi-Allepuz/RestaurantesWebApp/blob/main/logo.png" alt="Main Dashboard">
+</p>
+<p align="center">
+  <h1>Ñam Ñam Notes</h1>
+</p>
+
 
 Ñam Ñam Notes is a web application designed to help users keep track of the restaurants they visit and their opinions about those restaurants. The app allows users to rate and review various aspects of their dining experiences, such as location, parking, price, service, and favorite dishes.
 
